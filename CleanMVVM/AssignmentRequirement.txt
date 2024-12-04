@@ -1,0 +1,19 @@
+Created an iOS app using an open API that you find interesting. 
+Used the best engineering practices 
+Demonstrate the following values:
+• performance
+• readability
+• maintainability
+• testability
+• scalability
+• simplicity 
+
+This exercise used:	
+• Combine
+• SPM 
+• Mandatory Unit tests
+• UI tests that will increase the chances.	
+• Clean architecture (for e.g. separation of concerns (Data, Domain and Presentation Layers)) with MVVM.	
+• Use of SwiftUI	
+• Modular code.	
+• Documentation for classes and functions.
